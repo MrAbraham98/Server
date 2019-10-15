@@ -49,7 +49,7 @@ public class Server {
         }
 
         try {
-            out = new FileOutputStream("/Users/mrabraham/Desktop/DesktopPC/asd.rar");
+            out = new FileOutputStream("/Users/mrabraham/Desktop/isim-soyisim.txt");
             System.out.println("Dosya oluşturma başarılı");
         } catch (FileNotFoundException ex) {
             System.out.println("Dosya bulunamadı ");
